@@ -13,4 +13,7 @@ The set contains a panel dataset, meant to emulate 6 semesters/trimesters with t
 The Stata code was immense and I thought that it might prove to be interesting/helpful to someone else. 
 
 # Variables Used
-All of the variables were generated and manipulated to model real world trends and local demographics in Portland, Oregon during the 2020-2021 timeline. There were several categories of information to consider, and 
+All of the variables were generated and manipulated to model real world trends and local demographics in Portland, Oregon during the 2020-2021 timeline. There were several categories of information to consider, and they're divied up between *Personal Information*, *School Performance*, and *State Performance*. The idea was that state level examinations would be less liekly to have grade inflation, and so may be a more accurate measure of performance. 
+
+## Personal Information
+\texttt{hey there}
