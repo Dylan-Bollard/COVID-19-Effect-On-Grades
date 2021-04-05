@@ -16,4 +16,16 @@ The Stata code was immense and I thought that it might prove to be interesting/h
 All of the variables were generated and manipulated to model real world trends and local demographics in Portland, Oregon during the 2020-2021 timeline. There were several categories of information to consider, and they're divied up between *Personal Information*, *School Performance*, and *State Performance*. The idea was that state level examinations would be less liekly to have grade inflation, and so may be a more accurate measure of performance. 
 
 ## Personal Information
-\texttt{hey there}
+**studentID** was used mainly as a means to efficiently differentiate students. The first 700 are in **school** #1 (the impoverished school), and the rest are in **school** #2 (the wealthy school). In addition, **gradelevel** and **gender** easy to imagine uses for. **covidpos** is meant to show a negative relationship between having the Covid-19 virus and school performance, assuming time spent off recovering. **timeperiod** is simply the number of semesters/trimesters from the beginning of the pandemic and online learning. For the panel dataset, the first three time periods are before the pandemic beginning, and the last three from after the switch to online learning. 
+
+## School Performance
++ **readingscore**
++ **writingscore**
++ **mathscore**
+Three "tests" were created to measure performance in macro subject areas. A reading, writing, and math exam could then be good indicators and ways to measure effects of other variables. 
+
+## State Performance
++ **readingscoreSL**
++ **writingscoreSL**
++ **mathscoreSL**
+The tests are considered at the state level as well. 
