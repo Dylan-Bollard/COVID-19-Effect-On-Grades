@@ -1,6 +1,5 @@
 # COVID-19-Effect-On-Grades
 Artificial dataset to satisfy graduate course requirement. 
-
 Found on [Kaggle](https://www.kaggle.com/dylanbollard/covid19-effect-on-grades-constructed-dataset).
 ---
 
