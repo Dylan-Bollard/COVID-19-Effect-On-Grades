@@ -1,7 +1,9 @@
 # COVID-19-Effect-On-Grades
 Artificial dataset to satisfy graduate course requirement. 
-Found on [Kaggle](https://www.kaggle.com/dylanbollard/covid19-effect-on-grades-constructed-dataset).
+
+
 ---
+Found on [Kaggle](https://www.kaggle.com/dylanbollard/covid19-effect-on-grades-constructed-dataset).
 
 This dataset was *generated* in order to fullfill a requirement for a graduate class in applied econometrics. I originally wanted to collect data on the effect of COVID-19 on student performance from a school district, but was unable to given that our local district was already conducting their own research. 
 
