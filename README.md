@@ -20,7 +20,7 @@ main.do
 ├── panelrealresults.do
 ├── visuals.do
 └── regress.do
- 
+
 + generatedata.do - creates variables and generates relative to chosen distribution
 + generatepaneldata.do - creates panel dataset by running generate.do **n** times
 + realresults.do - creates trends in the cross-sectional dataset
