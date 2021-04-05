@@ -10,4 +10,6 @@ The set contains a panel dataset, meant to emulate 6 semesters/trimesters with t
 
 **It should be noted that student performance has *greatly* been diminished as a result of online education.**
 
-Feel free to reach out about the Stata code. It ended up being about 1500 lines to generate and manipulate, but I'm happy to share it with the same Public Domain license. 
+The Stata code was immense and I thought that it might prove to be interesting/helpful to someone else. 
+
+--
