@@ -15,10 +15,15 @@ The Stata code was immense and I thought that it might prove to be interesting/h
 # Program List
 main.do
 ├── generatedata.do
+
 ├── generatepaneldata.do
+
 ├── realresults.do
+
 ├── panelrealresults.do
+
 ├── visuals.do
+
 └── regress.do
 
 + generatedata.do - creates variables and generates relative to chosen distribution
