@@ -14,6 +14,7 @@ Feel free to reach out about the Stata code. It ended up being about 1500 lines 
 
 
 // VARIABLES used in the program 
+
 //
 // NAME 			DATATYPE 					PURPOSE
 //
